@@ -1,0 +1,74 @@
+{
+  "productList": [
+    {
+      "productName": "Orange",
+      "productShortName": "Orng",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 250,
+      "comment": "This is fresh oranges",
+      "date": "2022-02-28T05:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Potato",
+      "productShortName": "ptato",
+      "category": "Vegetables",
+      "freshness": "Old",
+      "price": 78,
+      "comment": "This is fresh Carrot",
+      "date": "2022-02-28T05:00:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Banana",
+      "productShortName": "Ban",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "This is fresh Banana",
+      "date": "2022-02-27T05:00:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "Mobile",
+      "productShortName": "Mob",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 25000,
+      "comment": "This is Oppo phone",
+      "date": "2022-02-24T05:00:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "PomeGrant",
+      "productShortName": "Pome",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 450,
+      "comment": "This is fresh pomegrant",
+      "date": "2022-02-23T05:00:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "Television",
+      "productShortName": "Tv",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 10000,
+      "comment": "This is second hand tv",
+      "date": "2022-02-22T05:00:00.000Z",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
